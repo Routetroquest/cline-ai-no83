@@ -1,4 +1,4 @@
-# 
+# Nativo Cline predefinições. Com assistente de voz e testes automatizados — otimizado para máximo desempenho e eficiência.
 
 
 
